@@ -1,0 +1,17 @@
+##      Interface: 90100
+##
+##         Author: Skizo
+##
+##    Modified by: Shaun Voysey
+##
+##          Title: MoneyDisplay 5.0 |cFFFF8888[Skizo]|r
+##
+##          Notes: Small movable window displaying current Player Money.
+##
+##        Version: 9.0.0
+##
+##       Modified: 26th August, 2020
+##
+## SavedVariables: MoneyDisplaySettings
+
+MoneyDisplay.xml
